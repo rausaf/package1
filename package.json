@@ -1,0 +1,23 @@
+{
+  "name": "iswds",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rausaf/package1#readme",
+  "bugs": {
+    "url": "https://github.com/rausaf/package1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rausaf/package1.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "license": "ISC",
+  "author": "rausaf",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

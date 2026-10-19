@@ -1,3 +1,3 @@
-const sprinterdmu = require("sprinter-dmu");
+const isWds = require("iswds");
 
-console.log(sprinterdmu("WDS"));
+console.log(isWds("WDS"));
